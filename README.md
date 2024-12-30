@@ -31,9 +31,10 @@ unordered list
  
 강조하고 싶은 한줄 코드 'python'
 
-'''python
+```python
+
 name='박혁준'
-'''
+```
   
 
 add new line
