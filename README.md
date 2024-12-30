@@ -38,6 +38,7 @@ name='박혁준'
 
 |  name  |  gender|
 |--------|--------|
+|  혁준  |  남자  |
   
 
 add new line
